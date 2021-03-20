@@ -4,3 +4,5 @@ Python scripts for preprocessing, training a Music Genre Classifier using Deep L
 - Multi Layer Perceptron,
 - CNN,
 - RNN-LSTM
+
+[Kaggle Dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)
