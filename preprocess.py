@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import math
 import json
 
-DATASET_PATH = '../Data/genres_original/'
+DATASET_PATH = '../genres_original/'
 JSON_PATH = 'data.json'
 SAMPLE_RATE = 22050
 DURATION = 30  # measured in secs
